@@ -1,0 +1,32 @@
+#: locale=en
+
+## Media
+
+### 360 Video
+
+### Title
+media_C4B964B6_D698_909E_41E7_305F158881A9.label = fundo_do_mar_parte1_basico
+media_C4920475_D699_9792_41D2_60B961AA19C6.label = fundo_do_mar_parte2_basico
+panorama_D8CCE182_D339_7549_41DE_42F35EA9B441.label = intro
+panorama_D86B0500_D688_9172_41A8_ADB2014ED8F8.label = menu
+panorama_D81F0BD9_D698_9092_41C8_AB2E20565603.label = menu_1
+panorama_D84EA671_D69B_9392_41D8_99FF9D28CC77.label = menu_2
+panorama_C4A9338A_D688_7176_41DF_34D41BC2814B.label = menu_fundo_do_mar
+panorama_C590E942_D68B_91F6_41E1_32DA3A67D33E.label = tutorial
+
+### Video
+videores_C408FD6F_D69B_918E_41DA_5EBF771FDB46.url = media/media_C4920475_D699_9792_41D2_60B961AA19C6_en.mp4
+videores_C59692A2_D698_F0B6_41DA_5815435A2720.url = media/media_C4920475_D699_9792_41D2_60B961AA19C6_en_1.mp4
+videores_C408FD6F_D69B_918E_41DA_5EBF771FDB46.posterURL = media/media_C4920475_D699_9792_41D2_60B961AA19C6_poster_en.jpg
+videores_C59692A2_D698_F0B6_41DA_5815435A2720.posterURL = media/media_C4920475_D699_9792_41D2_60B961AA19C6_poster_en.jpg
+videores_C5954780_D688_B172_4198_8C3EBCEE5800.url = media/media_C4B964B6_D698_909E_41E7_305F158881A9_en.mp4
+videores_C4715A90_D69B_9092_41D1_6EC4001BFDDD.url = media/media_C4B964B6_D698_909E_41E7_305F158881A9_en_1.mp4
+videores_C5954780_D688_B172_4198_8C3EBCEE5800.posterURL = media/media_C4B964B6_D698_909E_41E7_305F158881A9_poster_en.jpg
+videores_C4715A90_D69B_9092_41D1_6EC4001BFDDD.posterURL = media/media_C4B964B6_D698_909E_41E7_305F158881A9_poster_en.jpg
+
+## Tour
+
+### Description
+
+### Title
+tour.name = CMCS - Sousel
