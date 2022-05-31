@@ -1,7 +1,7 @@
 {
- "theme_color": "#FFFFFF",
- "start_url": "index.htm?installed=true",
  "name": "CMCS - Sousel",
+ "background_color": "#FFFFFF",
+ "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "display": "fullscreen"
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true"
 }
