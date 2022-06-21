@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "start_url": "index.htm?installed=true",
+ "name": "CMCS - Sousel",
  "display": "fullscreen",
+ "start_url": "index.htm?installed=true",
  "theme_color": "#FFFFFF",
- "name": "CMCS - Sousel"
+ "background_color": "#FFFFFF"
 }
